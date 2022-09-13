@@ -1,0 +1,15 @@
+{
+    "name": "ajaygawade/counterx",
+    "description": "Demo counter",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+             "counterx": "src/"
+         }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
